@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Igolukumo Ebimobere Ruth 👋
+### Aspiring Health Analyst & Data Analyst
 
-<!--
-**igolukumoruth222/igolukumoruth222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I blend public health nutrition research with data science tools to extract actionable insights from community health, food systems, and operational data.
 
-Here are some ideas to get you started:
+- 🛠️ **Skills:** MySQL, Advanced Excel, Python, Jupyter Notebooks, Power BI, Regression Modeling
+- 🎯 **Interests:** Public Health Nutrition, Sustainable Food Systems, Maternal & Child Health
+- 📫 **Connect with me:** https://www.linkedin.com/in/igolukumoruth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+1. **Evaluating Breastfeeding & Infant Feeding Promotion among Faith-Based Leaders** (Field Research & Multivariate Modeling)
+2. **Data Integration and Fragmentation in Primary Healthcare Centers" at HealthConnect Public Health Solutions Ltd.** (Database Design & Querying)
+3. **Malnutrition in Rural Communities Analysis" at Health Center Medicare** (Data Cleaning & Dynamic Dashboard)
